@@ -1,0 +1,97 @@
+[Root]
+Most Recent Package=24Bit_ADC
+
+
+[Package|24Bit_ADC|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=F:\Umair\Lab_VC_Projects\Data acquisition for ADC\HARDAS DAC Sajjad\Plot_ICCC Point by Point 22-05-2009\ADC24Bit
+
+[Package|24Bit_ADC|Configure DAO ISAMs]
+Applicable=No
+
+[Package|24Bit_ADC|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|24Bit_ADC|Files Found]
+
+[Package|24Bit_ADC|Files Released]
+
+[Package|24Bit_ADC|Missing Dependency Information]
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+
+[Package|24Bit_ADC|Out-of-Date Dependency Information]
+
+[Package|24Bit_ADC|Files Added]
+
+[Package|24Bit_ADC|Files Removed]
+
+[Package|24Bit_ADC|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MSCOMM32.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+F:\Umair\Lab_VC_Projects\Data acquisition for ADC\HARDAS DAC Sajjad\Plot_ICCC Point by Point 22-05-2009\Plot_ICCC.exe=Yes
+
+[Package|24Bit_ADC|Configure Registry Files]
+Applicable=No
+
+[Package|24Bit_ADC|Configure Remote Servers]
+Applicable=No
+
+[Package|24Bit_ADC|Install Locations]
+F:\Umair\Lab_VC_Projects\Data acquisition for ADC\HARDAS DAC Sajjad\Plot_ICCC Point by Point 21-03-2007\Plot_ICCC.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+F:\Umair\Lab_VC_Projects\Data acquisition for ADC\HARDAS DAC Sajjad\Plot_ICCC Point by Point 22-05-2009\Plot_ICCC.exe=$(AppPath)
+
+[Package|24Bit_ADC|Configure Shared Files]
+Applicable=Yes
+F:\Umair\Lab_VC_Projects\Data acquisition for ADC\HARDAS DAC Sajjad\Plot_ICCC Point by Point 21-03-2007\Plot_ICCC.exe=No
+F:\Umair\Lab_VC_Projects\Data acquisition for ADC\HARDAS DAC Sajjad\Plot_ICCC Point by Point 22-05-2009\Plot_ICCC.exe=Yes
+
+[Package|24Bit_ADC|Distribution]
+Type=single
+Size=
+Title=24Bit_ADC
+
+[Package|24Bit_ADC|Package]
+PackageFolder=F:\Umair\Lab_VC_Projects\Data acquisition for ADC\HARDAS DAC Sajjad\Plot_ICCC Point by Point 22-05-2009\ADC24Bit
+ProjectFolder=F:\Umair\Lab_VC_Projects\Data acquisition for ADC\HARDAS DAC Sajjad\Plot_ICCC Point by Point 22-05-2009
+ServerSideCab=
+File1=F:\Umair\Lab_VC_Projects\Data acquisition for ADC\HARDAS DAC Sajjad\Plot_ICCC Point by Point 22-05-2009\ADC24Bit\setup.exe
+File2=F:\Umair\Lab_VC_Projects\Data acquisition for ADC\HARDAS DAC Sajjad\Plot_ICCC Point by Point 22-05-2009\ADC24Bit\Setup.Lst
+File3=F:\Umair\Lab_VC_Projects\Data acquisition for ADC\HARDAS DAC Sajjad\Plot_ICCC Point by Point 22-05-2009\ADC24Bit\Plot_ICCC.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|24Bit_ADC|IconGroups]
+Group0=24Bit_ADC
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|24Bit_ADC|24Bit_ADC]
+Icon1=Plot_ICCC.EXE
+Title1=24Bit_ADC
+StartIn1=$(AppPath)
+Key1=Icon1
